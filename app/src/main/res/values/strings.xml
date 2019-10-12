@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sqlites</string>
+    <string name="f_name">Full Name</string>
+    <string name="StudentNumber">StudentNumber</string>
+    <string name="save">Save</string>
+    <string name="show">Show</string>
+    <string name="age">Age</string>
+    <string name="empty"></string>
+</resources>
