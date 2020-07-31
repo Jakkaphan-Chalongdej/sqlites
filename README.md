@@ -1,2 +1,2 @@
-"# sqlites" 
+# sqlites
 Android studio
